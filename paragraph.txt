@@ -1,0 +1,19 @@
+Computer science is the study of computers and computing concepts
+ It includes both hardware and software as well as networking and the Internet
+The hardware aspect of computer science overlaps with electrical engineering
+ It covers the basic design of computers and the way they work
+ A fundamental understanding of how a computer computes or performs calculations provides the 
+foundation for comprehending more advanced concepts
+ For example understanding how a computer operates in binary allows you to understand how 
+computers add subtract and perform other operations
+ Learning about logic gates enables you to make sense of processor architecture
+The software side of computer science covers programming concepts as well as 
+specific programming languages
+ Programming concepts include functions algorithms and source code design
+ Computer science also covers compilers operating systems and software applications
+ User focused aspects of computer science include computer graphics and user interface design
+Since nearly all computers are now connected to the Internet the computer science umbrella covers 
+Internet technologies as well
+ This includes Internet protocols telecommunications and networking concepts
+ It also involves practical applications such as web design and network administration
+
